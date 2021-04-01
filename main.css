@@ -1,23 +1,25 @@
-body {
-  color: brown;
-}
-
 h1 {
-  color: Brown;
+  color: #D2B48C;
   letter-spacing: 3px;
   text-align: center;
 }
+
+body {
+  color: #D2B48C;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+
 ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #D2B48C;
 }
 
 ul.topnav li {float: left;}
