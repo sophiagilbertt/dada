@@ -12,6 +12,22 @@ body {
   margin: 0 auto;
   padding: 0 5%;
 }
+/* A link that has not been visited */
+a:link {
+    color: #99994d;
+}
+/* A link that has been visited */
+a:visited {
+    color: #99994d;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #e6ac00;
+}
+/* A link that is selected */
+a:active {
+    color: #e6ac00;
+}
 
 ul.topnav {
   list-style-type: none;
