@@ -11,51 +11,46 @@ body {
   max-width: 60em;
   margin: 0 auto;
   padding: 0 5%;
+  line-height: 2em;
 }
-/* A link that has not been visited */
+
 a:link {
-    color: #99994d;
+    color: #f5f5f0;
 }
-/* A link that has been visited */
+
 a:visited {
-    color: #99994d;
+    color: #f5f5f0;
 }
-/* A link that is hovered on */
-a:hover {
+
+/*a:hover {
     color: #e6ac00;
 }
-/* A link that is selected */
+
 a:active {
     color: #e6ac00;
-}
+}*/
 
 ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-
-/*ul.topnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
-  background-color: #D2B48C;
+  background-color: #99994d;
 }
 
 ul.topnav li {float: left;}
 
 ul.topnav li a {
   display: block;
-  color: white;
+  color: #f5f5f0;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {background-color: #111;}
+ul.topnav li a:hover:not(.active) {background-color: #7a7a52;}
 
-ul.topnav li a.active {background-color: #4CAF50;}
+ul.topnav li a.active {background-color: #99994d;}
 
 ul.topnav li.right {float: right;}
 
