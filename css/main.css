@@ -24,14 +24,6 @@ a:visited {
     color: #f5f5f0;
 }
 
-/*a:hover {
-    color: #e6ac00;
-}
-
-a:active {
-    color: #e6ac00;
-}*/
-
 ul.topnav {
   list-style-type: none;
   margin: 0;
@@ -61,6 +53,6 @@ ul.topnav li.right {float: right;}
   ul.topnav li {float: none;}
 } */
 
-figcap {
+figure {
   color:#f5f5f0
 }
