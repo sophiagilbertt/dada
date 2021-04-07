@@ -1,13 +1,15 @@
 
 h1 {
-  color: #D2B48C;
+  color: #f6b278;
   letter-spacing: 3px;
   text-align: center;
+  font-size: 150%;
+  font-style: italic;
 }
 
 body {
   background-color: #fff;
-  color: #D2B48C;
+  color: #f6b278;
   max-width: 60em;
   margin: 0 auto;
   padding: 0 5%;
@@ -58,3 +60,7 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 } */
+
+figcap {
+  color:#f5f5f0
+}
